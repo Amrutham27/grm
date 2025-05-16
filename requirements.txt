@@ -1,0 +1,4 @@
+Flask
+openai
+azure-identity
+gunicorn
