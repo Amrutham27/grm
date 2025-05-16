@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'gradientm1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EFE1546BAFA470392C732B2AD487D94 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C3E151FDD284B74B4254FBB018FF467 }}
